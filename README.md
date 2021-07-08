@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @gabo-cs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Gabriel, I go by Gabo (Kinda like the Spanish version of 'Gabe').
 
-<!---
-gabo-cs/gabo-cs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I’m a RoR Software Engineer at [Mudflap](https://www.mudflapinc.com/).
+
+🌱 I’m currently Golang.
+
+:octocat: Old GitHub account: [gabo-cs-zz](https://github.com/gabo-cs-zz) (I lost my original account due to 2FA settings so I had to create a new one 😞).
