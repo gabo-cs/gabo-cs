@@ -4,6 +4,6 @@
 
 🌱 I’m currently learning Golang.
 
-🌐 I speak 🇪🇸🇺🇸 fluently, and a little bit of 🇫🇷.
+🌐 I speak 🇪🇸 and 🇺🇸 fluently, and a little bit of 🇫🇷.
 
 :octocat: Old GitHub account: [gabo-cs-zz](https://github.com/gabo-cs-zz) (I lost my original account due to 2FA settings so I had to create a new one 😞).
