@@ -2,7 +2,7 @@
 
 💻 I’m a Software Engineer at [Mudflap](https://www.mudflapinc.com/), writing Ruby on Rails.
 
-🌱 I’m (looking forward to) learning Golang.
+🌱 I’m learning Elixir.
 
 🌐 I speak 🇪🇸 and 🇺🇸 fluently, and a little bit of 🇫🇷. 
 
