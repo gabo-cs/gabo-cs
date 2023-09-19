@@ -1,6 +1,6 @@
 ### Ni Hao 👋
 
-I'm Gabriel Coronado, but you can just call me Gabo <sub><sup>(_GAH-boh_)</sup></sub>.
+I'm Gabriel Coronado, but you can just call me Gabo (_GAH-boh_).
 
 💻 I’m a Software Engineer at [Mudflap](https://www.mudflapinc.com/), writing Ruby on Rails.
 
