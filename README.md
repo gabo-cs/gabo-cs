@@ -1,4 +1,4 @@
-### Ni Hao 👋
+### Salut 👋
 
 I'm Gabriel Coronado, but you can just call me Gabo (_GAH-boh_).
 
